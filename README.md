@@ -1,0 +1,1 @@
+Repository containing the raw and processed simulation data associated with the manuscript “Vortex-Induced Resistive State in Pb–Nb Core-Shell Superconductors”. The datasets include numerical outputs from the 2D GTDGL simulations, IV curves, vortex configurations, and post-processed files used to generate the figures
