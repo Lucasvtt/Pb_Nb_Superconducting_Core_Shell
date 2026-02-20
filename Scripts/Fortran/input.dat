@@ -1,0 +1,9 @@
+32, 48             ! Lx, Ly
+0.475610, 0.75     ! kappa, T
+0, 1, 0.00005      ! initial, final and step for applied current
+0.2, 0.2           ! dx, dy
+10                 ! gamma constant
+5.79, 1, 0.99      ! u, sigma, reduction factor for dtmax
+50                 ! every iVT wrtites the value of V(t)
+2500, 2000, 1.0d-5 ! every iTest tests convergence
+1                  ! istart, 0 -> start from initial J_a_i, other -> restarts from last J_a
